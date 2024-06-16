@@ -1,2 +1,2 @@
 # Google2Notion
-Programming 2's final project
+Programming-2 Final Project
