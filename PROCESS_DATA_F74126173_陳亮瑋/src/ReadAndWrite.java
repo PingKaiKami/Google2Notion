@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 public class ReadAndWrite {
 
     public static void main(String[] args) {
-        String pathS="C:/Users/User/Documents/java1/java1/data.txt";
+        String pathS="C:/Users/User/Documents/Final-project/data.txt";
         try {
             File path = new File(pathS);
             FileInputStream fis = new FileInputStream(path);
